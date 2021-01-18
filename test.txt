@@ -1,0 +1,2 @@
+hello and welcome to my git repo number 2.
+I am currently learning to use git and github.
