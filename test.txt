@@ -2,4 +2,5 @@ hello and welcome to my git repo number 2.
 I am currently learning to use git and github.
 
 upd1- testing
-upd2
+
+upd3 - deleted upd2
